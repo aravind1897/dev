@@ -1,0 +1,54 @@
+.line {
+    display: inline-block;
+    width: 100%;
+    border-top: 0.1px solid black;
+}
+.header {
+    padding: 0.5px;
+    text-align: center;
+    background: #A0CFEC;
+    color: black;
+    font-size: 30px;
+}
+.score {
+    width: 130px;
+    height: 130px;
+    line-height: 130px;
+    border-radius: 50%;
+    font-size: 50px;
+    color: #fff;
+    text-align: center;
+    background: green;
+    margin: 0px auto;
+}
+.next{
+    margin-right:-30px;
+    margin-top:10px;
+    width:90px;
+}
+.previous
+{
+    margin-right:18px;
+    margin-top:10px;
+    width:90px;
+}
+#final_submit{
+    margin-left:1300px;
+    margin-top:-265px;
+    width:90px;
+}
+.level{
+    float:right;
+    margin-top:-40px;
+
+}
+
+.u_name{
+    float:left;
+    font-size:18px;
+    margin-left:28px;
+	margin-top:20px;
+}
+.quiz_body{
+    background-image: linear-gradient(#4E65FF,#92EFFD);
+}
